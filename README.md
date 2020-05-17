@@ -3,9 +3,8 @@
 <h2>OCR using tesseract which can detect text from Image as well as pdf files.</h2>
 </br>
 Important links:
-imagemagick : http://docs.wand-py.org/en/latest/guide/install.html#install-imagemagick-on-windows
+imagemagick : http://docs.wand-py.org/en/latest/guide/install.html#install-imagemagick-on-windows</br>
 tesseract : https://github.com/UB-Mannheim/tesseract/wiki
 </br>
 pip installations:
-pip install pytesseract
-pip install wand
+   pip install pytesseract wand
